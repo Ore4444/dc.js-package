@@ -1,0 +1,20 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "dc.js-package": {
+        "path": "."
+      }
+    },
+    "packages": {
+      "dc.js-package": {
+        "path": "."
+      },
+      "Crossfilter": {
+        "git": "https://github.com/Ore4444/crossfilter-package.git",
+        "tag": "v0.0.1",
+        "commit": "0984f6635387eaa3292c6c4ddcfcbda3bf72e9d2"
+      }
+    }
+  }
+}
