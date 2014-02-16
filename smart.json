@@ -6,7 +6,7 @@
   "version": "0.0.2",
   "git": "https://github.com/Ore4444/dc.js-package.git",
   "packages": {
-      "Crossfilter": "0.0.1",
+      "Crossfilter": "0.0.2",
       "d3": "3.4.1"
   }
 }
