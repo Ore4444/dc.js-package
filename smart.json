@@ -1,11 +1,12 @@
 {
-  "name": "dc.js-package",
+  "name": "dc",
   "description": "A multi-dimensional charting library built to work natively with crossfilter and rendered using d3.js",
   "homepage": "http://nickqizhu.github.io/dc.js/",
   "author": "Nick Zhu <http://nzhu.blogspot.ca/>",
-  "version": "0.0.1",
+  "version": "0.0.3",
   "git": "https://github.com/Ore4444/dc.js-package.git",
   "packages": {
-      "Crossfilter": "0.0.1"
+      "Crossfilter": "0.0.2",
+      "d3": "3.4.1"
   }
 }
