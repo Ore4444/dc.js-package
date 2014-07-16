@@ -4,6 +4,6 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.use('d3');
-
+  api.export('dc');
   api.add_files('dc.js/dc.js', 'client');
 });
